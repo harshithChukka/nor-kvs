@@ -1,3 +1,6 @@
+#include <stdbool.h>
+#include <string.h>
+
 #include "flash_driver.h"
 #include "logger.h"
 
