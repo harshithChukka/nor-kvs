@@ -1,0 +1,18 @@
+# Build output
+build/
+bin/
+out/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Generated files
+*.o
+*.a
+*.so
+
+# Test/build artifacts
+coverage/
